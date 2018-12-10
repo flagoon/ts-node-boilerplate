@@ -1,0 +1,17 @@
+{
+    "name": "ts-node-boilerplate",
+    "version": "1.0.0",
+    "description": "Small boilerplate for personal node projects",
+    "main": "./dist/index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": ["boilerplate", "typescritp", "node"],
+    "author": "Pawel --muody-- Kochanek",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^10.12.12",
+        "tslint": "^5.11.0",
+        "typescript": "^3.2.2"
+    }
+}
